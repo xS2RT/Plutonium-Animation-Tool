@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://github.com/xS2RT/Plutonium-Animation-Tool">
+    <img src="Plutonium.png" height="100">
+  </a>
   <!-- Title -->
   <h1>Plutonium Animation Tool</h1>
   
@@ -20,3 +23,7 @@ If you encounter any issues or have suggestions about the tool, join this Discor
 ![Screenshot_1.png](/Screenshot_1.png)
 
 ![Screenshot_2.png](/Screenshot_2.png)
+
+## Note
+
+This tool only works with Plutonium its not built for other games, This tool might get you banned so make sure to use it in LAN mode.
