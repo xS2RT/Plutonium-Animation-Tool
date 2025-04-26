@@ -10,7 +10,7 @@
   
 </div>
 
-## Download tool from latest release
+## Download
 
 - **[latest release](https://github.com/xS2RT/Plutonium-Animation-Tool/releases)**
 
