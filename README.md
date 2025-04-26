@@ -14,9 +14,9 @@
 
 - **[latest release](https://github.com/xS2RT/Plutonium-Animation-Tool/releases)**
 
-## Support
+## Discord
 
-If you encounter any issues or have suggestions about the tool, join this Discord server for support **[Discord](http://dsc.gg/chry)**.
+If you encounter any issues or have suggestions join this Discord server **[Discord](http://dsc.gg/chry)**.
 
 ## Screenshots
 
