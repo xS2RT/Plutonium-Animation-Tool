@@ -14,3 +14,9 @@
 ## Support
 
 If you encounter any issues or have suggestions about the tool, join this Discord server for support **[Discord](http://dsc.gg/chry)**.
+
+## Screenshots
+
+![Screenshot_1.png](/Screenshot_1.png)
+
+![Screenshot_2.png](/Screenshot_2.png)
