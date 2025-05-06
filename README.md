@@ -7,6 +7,7 @@
   
   <!-- Short Description -->
   <p>This tool allows you to replace weapon animations to another weapon</p>
+  <p>Force player animations</p>
   
 </div>
 
