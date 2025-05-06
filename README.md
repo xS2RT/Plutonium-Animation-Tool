@@ -11,6 +11,10 @@
   
 </div>
 
+## Note
+
+This tool only works with Plutonium its not built for other games, This tool might get you banned so make sure to use it in LAN mode.
+
 ## Download
 
 - **[latest release](https://github.com/xS2RT/Plutonium-Animation-Tool/releases)**
@@ -26,7 +30,3 @@ If you encounter any issues or have suggestions join this Discord server **[Disc
 ![Screenshot_3.png](/Screenshot_3.png)
 
 ![Screenshot_2.png](/Screenshot_2.png)
-
-## Note
-
-This tool only works with Plutonium its not built for other games, This tool might get you banned so make sure to use it in LAN mode.
