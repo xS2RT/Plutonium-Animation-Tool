@@ -22,6 +22,8 @@ If you encounter any issues or have suggestions join this Discord server **[Disc
 
 ![Screenshot_1.png](/Screenshot_1.png)
 
+![Screenshot_3.png](/Screenshot_3.png)
+
 ![Screenshot_2.png](/Screenshot_2.png)
 
 ## Note
